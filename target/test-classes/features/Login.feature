@@ -39,3 +39,30 @@ Scenario: Home page default login
 Given User is on landing page
 When User log into application with "" and ""
 Then Home Page is populated
+
+
+@MobileTest
+Scenario: Home page default login
+Given User is on landing page
+When User log into application with "" and ""
+Then Home Page is populated
+
+
+@MobileTest
+Scenario: Home page default login
+Given User is on landing page
+When User log into application with "" and ""
+Then Home Page is populated
+
+@MobileTest
+Scenario: Home page default login
+Given User is on landing page
+When User log into application with "" and ""
+Then Home Page is populated
+
+
+@MobileTest
+Scenario: Home page default login
+Given User is on landing page
+When User log into application with "" and ""
+Then Home Page is populated
