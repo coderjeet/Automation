@@ -14,10 +14,11 @@ public class Hooks {
 	@After("@MobileTest")
 	public void afterValidation(){
 		System.out.println("After test hook validation called...........");
+		System.out.println("New print message");
 	}
 	
 	
-	fdshdhsgdhgshdg
+	
 	
 	
 	
